@@ -1,9 +1,5 @@
-## Hi there 👋
-
 <!--
 **gabbythecoder/gabbythecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I'm Gabby
+🌱 I’m currently learning - React
+🛠️ Current tech stack - HTML | CSS | JavaScript | Tailwind CSS | React | Node.js | Express | REST APIs | SQL | PostgreSQL
+📫 How to reach me - send me a message on [LinkedIn](url: https://www.linkedin.com/in/gabbyy-frenchh/)
