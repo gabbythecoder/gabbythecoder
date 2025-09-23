@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm Gabby
-🌱 I’m currently learning - React
-🛠️ Current tech stack - HTML | CSS | JavaScript | Tailwind CSS | React | Node.js | Express | REST APIs | SQL | PostgreSQL
-📫 How to reach me - send me a message on [LinkedIn](url: https://www.linkedin.com/in/gabbyy-frenchh/)
+- 👋 Hi, I'm Gabby
+- 🌱 I’m currently learning - React
+- 🛠️ Current tech stack - HTML | CSS | JavaScript | Tailwind CSS | React | Node.js | Express | REST APIs | SQL | PostgreSQL
+- 📫 How to reach me - send me a message on [LinkedIn](https://www.linkedin.com/in/gabbyy-frenchh/)
