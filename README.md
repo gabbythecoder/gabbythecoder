@@ -13,7 +13,7 @@
 
 ### 👋 Hi, I'm Gabby
 
-Junior full-stack developer on a mission to turn ideas into interactive, user-friendly apps. 
+Junior full-stack developer on a mission to turn ideas into interactive, user-friendly apps.<br> 
 Currently deep in bootcamp mode — writing code, breaking things (on purpose), and learning a *ton* every day.
 
 I’m all about collaboration, curiosity, and building cool stuff with kind people.
